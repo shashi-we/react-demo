@@ -2,6 +2,8 @@
 
 - Create React App
 - Configure TailwindCSS
+- Header
+- Login Page
 
 # Feastures:
 - Login / Sign up page
